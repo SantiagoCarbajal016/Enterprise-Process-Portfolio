@@ -1,0 +1,3 @@
+- As an operations user, I want to quickly see whether services are healthy so I can respond faster.
+- As a team member, I want release expectations clearly documented so deployments are predictable.
+- As a reviewer, I want to verify testing and risk mitigation were completed before approving release.

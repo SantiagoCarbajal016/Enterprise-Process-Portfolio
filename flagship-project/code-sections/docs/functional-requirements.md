@@ -1,0 +1,4 @@
+- The system must report basic health indicators
+- Status information must be accessible to internal users
+- Release documentation must be available prior to deployment
+- Testing results must be reviewed before approval

@@ -34,3 +34,5 @@ It does not aim to be:
 The documentation in the `docs/` directory describes each part of the HomeLab in
 detail. Files can be read individually, but together they describe the overall
 design and reasoning behind the setup.
+
+This HomeLab includes a working Docker Compose stack running Portainer, Nginx Proxy Manager, and Uptime Kuma for local service management and monitoring.
